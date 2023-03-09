@@ -13,7 +13,7 @@ namespace Calculadora
     public partial class Form1 : Form
     {
 
-        //testando o versionamento
+
         public Form1()
         {
             InitializeComponent();
