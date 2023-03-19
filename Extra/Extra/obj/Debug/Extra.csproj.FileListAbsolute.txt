@@ -1,0 +1,11 @@
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\Extra\bin\Debug\Extra.exe.config
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\Extra\bin\Debug\Extra.exe
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\Extra\bin\Debug\Extra.pdb
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\Extra\obj\Debug\Extra.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\Extra\obj\Debug\Extra.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\Extra\obj\Debug\Extra.Form1.resources
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\Extra\obj\Debug\Extra.Properties.Resources.resources
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\Extra\obj\Debug\Extra.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\Extra\obj\Debug\Extra.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\Extra\obj\Debug\Extra.exe
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\Extra\obj\Debug\Extra.pdb
