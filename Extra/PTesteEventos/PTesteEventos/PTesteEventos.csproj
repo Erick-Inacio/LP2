@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{01965D84-6C22-4BC1-9D15-579128895B95}</ProjectGuid>
+    <ProjectGuid>{7365B9EF-9B69-4D47-AE56-3CC28831CABA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>TesteEventos</RootNamespace>
-    <AssemblyName>TesteEventos</AssemblyName>
+    <RootNamespace>PTesteEventos</RootNamespace>
+    <AssemblyName>PTesteEventos</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

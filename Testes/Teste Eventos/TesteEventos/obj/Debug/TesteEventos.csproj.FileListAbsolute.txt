@@ -1,6 +1,0 @@
-C:\Users\erick\Desktop\Faculdade\LP2\Teste Eventos\TesteEventos\obj\Debug\TesteEventos.csproj.AssemblyReference.cache
-C:\Users\erick\Desktop\Faculdade\LP2\Teste Eventos\TesteEventos\obj\Debug\TesteEventos.csproj.SuggestedBindingRedirects.cache
-C:\Users\erick\Desktop\Faculdade\LP2\Teste Eventos\TesteEventos\obj\Debug\TesteEventos.Form1.resources
-C:\Users\erick\Desktop\Faculdade\LP2\Teste Eventos\TesteEventos\obj\Debug\TesteEventos.Properties.Resources.resources
-C:\Users\erick\Desktop\Faculdade\LP2\Teste Eventos\TesteEventos\obj\Debug\TesteEventos.csproj.GenerateResource.cache
-C:\Users\erick\Desktop\Faculdade\LP2\Teste Eventos\TesteEventos\obj\Debug\TesteEventos.csproj.CoreCompileInputs.cache

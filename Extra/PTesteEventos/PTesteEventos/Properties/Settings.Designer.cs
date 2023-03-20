@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TesteEventos.Properties
+namespace PTesteEventos.Properties
 {
 
 

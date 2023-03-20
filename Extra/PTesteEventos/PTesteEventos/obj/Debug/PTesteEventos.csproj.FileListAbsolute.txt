@@ -1,0 +1,11 @@
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\PTesteEventos\PTesteEventos\bin\Debug\PTesteEventos.exe.config
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\PTesteEventos\PTesteEventos\bin\Debug\PTesteEventos.exe
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\PTesteEventos\PTesteEventos\bin\Debug\PTesteEventos.pdb
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.Form1.resources
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.Properties.Resources.resources
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.exe
+C:\Users\erick\Desktop\Faculdade\LP2\Extra\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.pdb
