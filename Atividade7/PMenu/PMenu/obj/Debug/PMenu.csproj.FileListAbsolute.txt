@@ -1,0 +1,12 @@
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade7\PMenu\PMenu\bin\Debug\PMenu.exe.config
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade7\PMenu\PMenu\bin\Debug\PMenu.exe
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade7\PMenu\PMenu\bin\Debug\PMenu.pdb
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade7\PMenu\PMenu\obj\Debug\PMenu.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade7\PMenu\PMenu\obj\Debug\PMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade7\PMenu\PMenu\obj\Debug\PMenu.Form1.resources
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade7\PMenu\PMenu\obj\Debug\PMenu.Properties.Resources.resources
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade7\PMenu\PMenu\obj\Debug\PMenu.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade7\PMenu\PMenu\obj\Debug\PMenu.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade7\PMenu\PMenu\obj\Debug\PMenu.exe
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade7\PMenu\PMenu\obj\Debug\PMenu.pdb
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade7\PMenu\PMenu\obj\Debug\PMenu.frmExercicio2.resources
