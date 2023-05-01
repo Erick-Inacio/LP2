@@ -1,0 +1,10 @@
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade6\PClasses\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade6\PClasses\PClasses\bin\Debug\PClasses.exe
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade6\PClasses\PClasses\bin\Debug\PClasses.pdb
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.exe
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade6\PClasses\PClasses\obj\Debug\PClasses.pdb
